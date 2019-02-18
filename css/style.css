@@ -20,7 +20,7 @@ body {
 h1 {
   font-size: 400%;
   font-family: 'Baskerville', serif;
-  text-color: rgb(135,158,150);
+  color: rgb(135,158,150);
 }
 
 /* Write all remaining styles here */
