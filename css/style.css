@@ -46,6 +46,7 @@ a:-webkit-any-link {
 .column {
   display: inline-block;
   width:24%;
+  border:3px solid #ccc;
 }
 
 footer {
