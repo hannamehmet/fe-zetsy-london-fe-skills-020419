@@ -40,6 +40,7 @@ h2 {
 .column {
   display: inline-block;
   width:25%;
+  border: 2px solid #ccc;
 }
 
 /* Write all remaining styles here */
