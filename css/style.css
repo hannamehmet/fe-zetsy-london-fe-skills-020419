@@ -21,12 +21,11 @@ h1 {
   display: block;
   font-size: 5em;
   font-family: 'Baskerville', serif;
+  font-weight: normal;
   color: rgb(135,158,150);
   padding-bottom: 10px;
   margin: 0 0 5px;
-    
-    font-family: 'Baskerville', serif;
-    border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 /* Write all remaining styles here */
