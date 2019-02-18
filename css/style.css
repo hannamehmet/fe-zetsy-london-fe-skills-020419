@@ -37,6 +37,10 @@ h2 {
     font-size: 2em;
 }
 
+#press {
+    margin-bottom: 20px;
+}
+
 .column {
   display: inline-block;
   width:25%;
