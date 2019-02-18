@@ -41,6 +41,12 @@ h2 {
     margin-bottom: 20px;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 .column {
   display: inline-block;
   width:25%;
