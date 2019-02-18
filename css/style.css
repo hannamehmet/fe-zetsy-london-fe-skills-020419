@@ -46,7 +46,7 @@ a:-webkit-any-link {
 .column {
   display: inline-block;
   width:25%;
-  border: 2px solid #ccc;
+  border: 2px 2px 2px 2px solid #ccc;
 }
 
 /* Write all remaining styles here */
