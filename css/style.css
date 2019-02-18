@@ -68,6 +68,8 @@ footer {
       font-size: 0.8em;
 }
 
-
+a:active, a:hover {
+    outline: 0;
+}
 
 /* Write all remaining styles here */
