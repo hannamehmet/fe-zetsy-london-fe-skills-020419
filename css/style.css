@@ -43,6 +43,12 @@ a:-webkit-any-link {
     text-decoration: underline;
 }
 
+p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
+
 .column {
   display: inline-block;
   width:24.6%;
