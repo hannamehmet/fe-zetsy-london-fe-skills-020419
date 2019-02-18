@@ -37,10 +37,6 @@ h2 {
     font-size: 2em;
 }
 
-#press {
-    margin-bottom: 20px;
-}
-
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
